@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(matlab:*)"
+      "Bash(matlab:*)",
+      "Bash(git add:*)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
